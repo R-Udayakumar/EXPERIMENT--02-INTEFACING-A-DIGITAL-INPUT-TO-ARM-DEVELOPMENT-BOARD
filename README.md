@@ -115,10 +115,12 @@ static void MX_GPIO_Init(void)
 ```
 
 ## Output  :
-![WhatsApp Image 2023-08-23 at 11 19 30](https://github.com/R-Udayakumar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118708024/e7e9bbb0-4e41-4122-9bca-759b91e869b9)
-
+### SWITCH ON
+ <img src="https://github.com/R-Udayakumar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118708024/b85aec6b-86d7-4776-a21d-51930efa316c" width=475 height=475>
  
-![WhatsApp Image 2023-08-23 at 11 19 31](https://github.com/R-Udayakumar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118708024/b85aec6b-86d7-4776-a21d-51930efa316c)
+### SWITCH OFF
+ <img src="" width=475 height=475>
+ 
  
  
 ## Result :
